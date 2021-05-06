@@ -33,7 +33,7 @@ _This is an example of pong on an old TV. **This is an unfinished project**_
 
 _This is a media display featuring soothing sounds and imagery, but is interrupted when the screen is clicked_
 
-#### **_s21magd150lab09_Stevenson_ utilizes _p5.js-sound-main_ not found in the file, but can be found [here].(https://github.com/processing/p5.js/blob/1.3.1/lib/addons/p5.sound.js#L1375)
+#### **_s21magd150lab09_Stevenson_ utilizes _p5.js-sound-main_ not found in the file, but can be found [here](https://github.com/processing/p5.js/blob/1.3.1/lib/addons/p5.sound.js#L1375)**
 
 [Mirror Mirror Example Source Code](https://github.com/CVDowning/MAGD150/blob/gh-pages/s21magd150lab09_Stevenson/s19magd150lab09_Stevenson/s19magd150lab09_Stevenson/sketch.js)
 
